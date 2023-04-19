@@ -15,7 +15,7 @@
         <h1>Pagina Principal</h1>
         <ul>
             <li>Inicio</li>
-            <li>Quienes Somos</li>
+            <li><a href="Quienes.jsp" </a>Quienes Somos</li>
             <li>Servicios</li>
             <li>Portafolio</li>
             <li>Contactos</li>
