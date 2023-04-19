@@ -1,6 +1,6 @@
 <%-- 
-    Document   : Quienes
-    Created on : 18-04-2023, 07:55:27 PM
+    Document   : portafolio
+    Created on : 18-04-2023, 08:11:33 PM
     Author     : Hela_Sara
 --%>
 
@@ -12,11 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Quienes Somos</h1>
+        <h1>Portafolio</h1>
         <%@include file="menu.jsp" %>
-        <h2>¿Que es Lorem Ipsum?</h2>
-        <p>
-            Lorem Ipsum es simplemente ...
-        </p>
+        <p>este es nuestro portafolio...</p>
     </body>
 </html>

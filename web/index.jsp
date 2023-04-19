@@ -13,13 +13,8 @@
     </head>
     <body>
         <h1>Pagina Principal</h1>
-        <ul>
-            <li>Inicio</li>
-            <li><a href="Quienes.jsp" </a>Quienes Somos</li>
-            <li>Servicios</li>
-            <li>Portafolio</li>
-            <li>Contactos</li>
-        </ul>
+        <%@include file="menu.jsp" %>
+        
 
     </body>
 </html>

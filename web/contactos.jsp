@@ -1,6 +1,6 @@
 <%-- 
-    Document   : Quienes
-    Created on : 18-04-2023, 07:55:27 PM
+    Document   : contactos
+    Created on : 18-04-2023, 08:12:00 PM
     Author     : Hela_Sara
 --%>
 
@@ -12,11 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Quienes Somos</h1>
+        <h1>Contactos</h1>
         <%@include file="menu.jsp" %>
-        <h2>¿Que es Lorem Ipsum?</h2>
-        <p>
-            Lorem Ipsum es simplemente ...
-        </p>
+        <h2>Email: sarata889@gmail.com</h2>
+        <h2>facebook: ..... </h2>
+        <h2> twiter: </h2>
     </body>
 </html>

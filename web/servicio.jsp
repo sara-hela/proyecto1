@@ -12,6 +12,13 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Los servicios que ofrecemos</h1>
+        <%@include file="menu.jsp" %>
+        <ul>
+            <li>papeleria</li>
+            <li> impresiones</li>
+            <li>fotocopias</li>
+            <li>transcripciones</li>
+        </ul>
     </body>
 </html>
